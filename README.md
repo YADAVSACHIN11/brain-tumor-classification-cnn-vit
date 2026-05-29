@@ -249,6 +249,18 @@ brain-tumor-classification-cnn-vit/
 ```
 
 ---
+## Dataset
+
+This project uses a brain MRI dataset for tumor classification.
+
+### Source:
+Dataset taken from:
+https:https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
+---
+
+
+---
 
 ## Authors
 
